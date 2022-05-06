@@ -2,12 +2,12 @@
 
 <root>
   <Summary></Summary>  
-	<Project></Project>
+  <Project></Project>
   <Component></Component>
- 	<Version></Version>
-	<Priority>y</Priority>
-	<Assigned to></Assigned to>
-	<Steps to Reproduce></Steps to Reproduce>
+  <Version></Version>
+  <Priority>y</Priority>
+  <Assigned to></Assigned to>
+  <Steps to Reproduce></Steps to Reproduce>
   <Result></Result>
 </root>  
 
