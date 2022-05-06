@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<root>
+  
+	<Soft skills>time management skills</Soft skills>  
+	<Soft skills>abstract and analytical thinking</Soft skills>
+    
+	<Soft skills>communication skills</Soft skills>
+
+  	<Soft skills>stress tolerance</Soft skills>
+	<Soft skills>responsibility</Soft skills>
+	<Hard skills>Understanding of software testing and development</Hard skills>
+	<Hard skills>Databases</Hard skills>
+   
+	<Hard skills>Web technologies</Hard skills>
+  
+	<Hard skills>Computer networks</Hard skills>
+  
+	<Hard skills>Mobile platforms</Hard skills>
+  
+</root>
