@@ -5,8 +5,8 @@
   <Project></Project>
   <Component></Component>
   <Version></Version>
-  <Priority></Priority>
-  <Assigned></Assigned>
+  <Priority>y</Priority>
+  <Assigned to></Assigned to>
   <Steps></Steps>
   <Result></Result>
 </root>  

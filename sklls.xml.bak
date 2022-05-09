@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+
 <root>
+	
 	<element>time management skills</element>
+
 	<element>abstract and analytical thinking</element>
+
 	<element>communication skills</element>
+
 	<element>stress tolerance</element>
+
 	<element>responsibility</element>
+
 	<element>Understanding of software testing and development</element>
-	<element>Databases</element>
+		<element>Databases</element>
+
 	<element>Web technologies</element>
+
 	<element>Computer networks</element>
+
 	<element>Mobile platforms</element>
+
 </root>
